@@ -93,7 +93,7 @@ const handler = async (m, { conn, usedPrefix }) => {
 *Hola ${saludo} Un Gusto ${tagUsuario} 👋*
 
 ${borderTop}
-│  👟 *Ricky Prem*
+│  👟 *Ricky Bot*
 │  👤 *𝖴𝗌𝗎𝖺𝗋𝗂𝗈:* ${userName}
 │  📈 *𝖭𝗂𝗏𝖾𝗅:* ${level}
 │  ✨ *𝖤𝗑𝗉:* ${exp - min}/${xp}
